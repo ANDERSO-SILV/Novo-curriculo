@@ -1,0 +1,29 @@
+
+.curriculo{
+   border-radius: 5px;
+    text-align: center;
+    background-color: rgb(241, 248, 250);
+    color: rgb(10, 9, 9)
+
+}
+
+.h1{
+text-align: center;
+
+background-color:hsl(0,0%,50%) //cor 3
+
+}
+.paragrafo{
+    text-align: center; // centralizando o texto
+    
+}
+#img_redonda{
+    border-radius: 50%; /*deixando a img redonda */
+    border: 1px rgb(0, 0, 0);
+    display: block; /* centralizando a imagem */
+    margin-left: auto;
+    margin-right: auto
+}
+.centralizar_ferramentas{
+   text-align: center;
+}
